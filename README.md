@@ -11,7 +11,9 @@
 * [License](#license)
 
 ## Description
-This application allows the user to write and save notes.
+This application allows the user to write, save and delete notes.
+
+The Heroku deployed application can be accessed via the following link: <a href=""></a>
 
 ## Installation
 Git clone this repository and NPM install to use.
