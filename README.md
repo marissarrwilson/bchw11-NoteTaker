@@ -13,7 +13,7 @@
 ## Description
 This application allows the user to write, save and delete notes.
 
-The Heroku deployed application can be accessed via the following link: <a href=""></a>
+The Heroku deployed application can be accessed via the following link: [https://fathomless-savannah-36666.herokuapp.com/](https://fathomless-savannah-36666.herokuapp.com/). 
 
 ## Installation
 Git clone this repository and NPM install to use.
@@ -27,7 +27,7 @@ Type in "node server.js" to start up the application, and open up the local host
 ## Credits
 Individual work by me, Marissa Wilson, with the help of...
 
-* Instructors Fil and Daniel
+* Instructor Fil L
 * Boolean Bros
 
 ## Questions
